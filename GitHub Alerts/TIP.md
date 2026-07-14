@@ -1,2 +1,2 @@
 > [!TIP]
-> this a exemple of tip.
+> This is a TIP example, used for providing a helpful tip or a shortcut.
